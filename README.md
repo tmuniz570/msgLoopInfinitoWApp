@@ -12,6 +12,6 @@ Copie o código todo
 
 Abra o WhatsApp Web no chrome, selecione a conversa e abra o console
 
-``Clique com o botao direito no topo da conversa -> clique em inspecionar -> selecione o console -> cole o código no console e aperte enter``
+``Clique com o botao direito no topo da conversa -> clique em inspecionar -> selecione o console -> cole o código no console, EDITE A MENSAGEM e aperte enter``
 
 Pronto, agora é só assistir o SPAM reverso em ação!
