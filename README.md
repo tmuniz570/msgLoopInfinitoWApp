@@ -4,7 +4,7 @@ Script para enviar mensagens infinitas
 
 ## Utilização
 
-Abra [msgLoopInfinitoWApp.js](https://github.com/tmuniz570/msgLoopInfinitoWApp/msgLoopInfinitoWApp.js)
+Abra [msgLoopInfinitoWApp.js](https://github.com/tmuniz570/msgLoopInfinitoWApp/blob/main/msgLoopInfinitoWApp.js)
 
 Copie o código todo
 
